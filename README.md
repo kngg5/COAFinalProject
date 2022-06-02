@@ -14,9 +14,9 @@ It's a project for final exam for COA course, the project  is a management syste
 
 After clicking to  New Member menu item you will see this:
 ![Main Window](https://github.com/kngg5/COAFinalProject/blob/main/screenshots/creating%20record.png)
-> It's a window where you can add records to database. There is two buttons:
-- Save --> Adds all data in textbox field to database
-- Reset --> Makes all textbox field empty
+ It's a window where you can add records to database. There is two buttons:
+> Save --> Adds all data in textbox field to database
+> Reset --> Makes all textbox field empty
 When you click save button you will see this:
 ![Main Window](https://github.com/kngg5/COAFinalProject/blob/main/screenshots/saved%20data.png)
 
@@ -24,6 +24,7 @@ When you click save button you will see this:
 # #3 -> Delete or Search Member Window
 After clicking to Delete or Search Member menu item you will see this:
 ![Main Window](https://github.com/kngg5/COAFinalProject/blob/main/screenshots/delete%20or%20search%20member.png)
+
 > In this window you can search for particular client or delete it, to search write it's id number to textbox field and click serch, it looks like:
 ![Main Window](https://github.com/kngg5/COAFinalProject/blob/main/screenshots/searching%20data.png)
 
