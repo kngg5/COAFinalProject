@@ -4,4 +4,4 @@ It's a project for final exam for COA course, the project  is a management syste
 ## How app works?
 
 # 1
-![Main Window](screenshots/Main window.png)
+![Main Window](screenshots/Main window.PNG)
