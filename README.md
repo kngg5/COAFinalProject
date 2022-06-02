@@ -45,7 +45,7 @@ To delete member just write it's id in textbox and click delete button and you w
 ![Main Window](https://github.com/kngg5/COAFinalProject/blob/main/screenshots/delete%20data.png)
 
 
-# #4 -> By clicking Exit button the application will close
+### #4 -> By clicking Exit button the application will close
 
 ### Requirements for this project
 > Programming Language -> c#
