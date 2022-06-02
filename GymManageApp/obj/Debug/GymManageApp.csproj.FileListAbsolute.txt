@@ -1,0 +1,13 @@
+K:\repos\GymManageApp\GymManageApp\bin\Debug\GymManageApp.exe.config
+K:\repos\GymManageApp\GymManageApp\bin\Debug\GymManageApp.exe
+K:\repos\GymManageApp\GymManageApp\bin\Debug\GymManageApp.pdb
+K:\repos\GymManageApp\GymManageApp\obj\Debug\GymManageApp.csproj.AssemblyReference.cache
+K:\repos\GymManageApp\GymManageApp\obj\Debug\GymManageApp.csproj.SuggestedBindingRedirects.cache
+K:\repos\GymManageApp\GymManageApp\obj\Debug\GymManageApp.Form1.resources
+K:\repos\GymManageApp\GymManageApp\obj\Debug\GymManageApp.Properties.Resources.resources
+K:\repos\GymManageApp\GymManageApp\obj\Debug\GymManageApp.csproj.GenerateResource.cache
+K:\repos\GymManageApp\GymManageApp\obj\Debug\GymManageApp.csproj.CoreCompileInputs.cache
+K:\repos\GymManageApp\GymManageApp\obj\Debug\GymManageApp.exe
+K:\repos\GymManageApp\GymManageApp\obj\Debug\GymManageApp.pdb
+K:\repos\GymManageApp\GymManageApp\obj\Debug\GymManageApp.NewMember.resources
+K:\repos\GymManageApp\GymManageApp\obj\Debug\GymManageApp.DeleteMember.resources
